@@ -1,7 +1,8 @@
 # T-Rectus Femoris
 
 ## About 
-This is my Microprocessor and Microcontroller(MPMC) Project (CSE 306). It's a simple dino game inspired from google chrome which is controlled using Joystick module.
+During 5th semester of my undergrade life in Microprocessor and Microcontroller(MPMC) coruse-(CSE 306) I alongside with my 3 other group members made this Project. 
+It's a simple dino game inspired from google chrome which is controlled using Joystick module.
 
 ## Hardware
 - Arduino Mega
