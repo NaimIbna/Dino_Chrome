@@ -44,3 +44,9 @@ This is my Microprocessor and Microcontroller(MPMC) Project (CSE 306). It's a si
 - Adafruit_GFX  [Source](https://github.com/adafruit/Adafruit-GFX-Library)
 
 **_To Know more about TFT display_** [click here.](https://create.arduino.cc/projecthub/electropeak/ultimate-beginner-s-guide-to-run-tft-lcd-displays-by-arduino-081006)
+
+Sample of Drino_Chrome game:
+
+https://user-images.githubusercontent.com/47075819/189911837-8e3bb1ee-2e80-4094-9736-b9c3e37a80fe.mp4
+
+
